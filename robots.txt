@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hassanMoharrem.github.io/snippets-9ee3kw/sitemap.xml
